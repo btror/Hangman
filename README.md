@@ -1,5 +1,5 @@
 # Hangman
-This is the hangman game. The goal of this project is to practice Python and familiarize myself with datastructures and the syntax. 
+This is the hangman game. The goal of this project is to practice Python and familiarize myself with datastructures and the syntax. The idea is to crearte more advanced versions of the game as we go. 
 
 ### Day 1
 - created a basic text version of hangman
