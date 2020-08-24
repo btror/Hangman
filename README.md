@@ -9,5 +9,5 @@ This is the hangman game. The goal of this project is to practice Python and fam
 
 ### Day 2
 - (Day 2) created a basic GUI design
-  - (Day 2) implemented the systems from the text version of the game
+  - (Day 2) implemented the basic systems from the text version of the game
 <p><img src="guigame.JPG" width="600" height="400"></p>
