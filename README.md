@@ -7,10 +7,10 @@ This is the hangman game. The goal of this project is to practice Python and fam
 - (Day 2) added a system that allows users to make a final guess
 <p><img src="day1.JPG" width="600" height="400"></p>
 
-### Day 2-4
+### Day 2-3
 - (Day 2) created a basic GUI design
 - (Day 2) implemented the basic systems from the text version of the game
 <p><img src="guigame.JPG" width="600" height="400"></p>
 
-- (Day 4) added the ability for users to guess the word
+- (Day 3) added the ability for users to guess the word
 <p><img src="guipic2.JPG" width="600" height="400"></p> 
