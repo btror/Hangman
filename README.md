@@ -13,4 +13,4 @@ This is the hangman game. The goal of this project is to practice Python and fam
 <p><img src="guigame.JPG" width="600" height="400"></p>
 
 - (Day 4) added the ability for users to guess the word
-<p><img src="guipic2.JPG" width="600" height="400"></p>
+<p><img src="guipic2.JPG" width="600" height="400"></p> 
