@@ -17,6 +17,8 @@ This is the hangman game. The goal of this project is to practice Python and fam
 
 ### Day 4
 - (Day 4) redesigned the game layout
+- (Day 4) added a canvas to hold images
+- (Day 4) started working on the hang-man animation
 <p><img src="addedcanvas.JPG" width="600" height="400"></p> 
 
 - (Day 4) added a system that shows the user already-guessed letters
