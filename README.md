@@ -14,3 +14,10 @@ This is the hangman game. The goal of this project is to practice Python and fam
 
 - (Day 3) added the ability for users to guess the word
 <p><img src="guipic2.JPG" width="600" height="400"></p> 
+
+### Day 4
+- (Day 4) redesigned the game layout
+<p><img src="addedcanvas.JPG" width="600" height="400"></p> 
+
+- (Day 4) added a system that shows the user already-guessed letters
+<p><img src="letterguesspic.JPG" width="600" height="400"></p> 
