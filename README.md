@@ -23,3 +23,10 @@ This is the hangman game. The goal of this project is to practice Python and fam
 
 - (Day 4) added a system that shows the user already-guessed letters
 <p><img src="letterguesspic.JPG" width="600" height="400"></p> 
+
+### Day 5
+- (Day 5) redesigned the game layout colors and fonts
+- (Day 5) added a system that displays all guessed letters
+- (Day 5) finished the hangman animation
+- (Day 5) added a system that makes it possible to win or lose the game
+<p><img src="newerversion.JPG" width="600" height="400"></p> 
